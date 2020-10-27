@@ -2,7 +2,7 @@
 AWS Networking Organisation Internal DeepRacer Cup 2020
 
 ## Training Logs
-| Training  | Car  | reward function | Gradient descent batch size  | Number of epochs | Learning rate  | Entropy  | Discount factor  | Loss type |
+| Training model  | Car  | reward function | Gradient descent batch size  | Number of epochs | Learning rate  | Entropy  | Discount factor  | Loss type |
 | --------- |:---- |:---------------:| ----------------------------:|:---------------- |:--------------:| --------:| ---------------- |:---------:|
 | base 1    |  The Original DeepRacer     | centre_line    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
 | base 1    |  Bennyhwa1     | centre_line    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |

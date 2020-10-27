@@ -1,7 +1,7 @@
 def reward_function(params):
-    '''
+    """
     Reward function focused on making the agent to follow center line
-    '''
+    """
 
     # Read input parameters
     track_width = params['track_width']

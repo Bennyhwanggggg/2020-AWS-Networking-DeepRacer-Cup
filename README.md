@@ -7,6 +7,10 @@ AWS Networking Organisation Internal DeepRacer Cup 2020
 | base 1    |  The Original DeepRacer     | centre_line    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
 | base 1    |  Bennyhwa1     | centre_line    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
 
+## Models Version Keeping
+base 1 - `aws-networking-internal-deepRacer-cup-2020-reInvent-track`. 
+
+
 ## Car Details
 ### The Original DeepRacer
 Sensor(s): Camera.   

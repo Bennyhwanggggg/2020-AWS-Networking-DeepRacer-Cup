@@ -6,9 +6,11 @@ AWS Networking Organisation Internal DeepRacer Cup 2020
 | --------- |:---- |:---------------:| ----------------------------:|:---------------- |:--------------:| --------:| ---------------- |:---------:|
 | base 1    |  The Original DeepRacer     | centre_line    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
 | base 1    |  Bennyhwa1     | centre_line    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
+| base 1    |  Bennyhwa1     | inside_lane_fast    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
+| base 1    |  Bennyhwa1     | smooth    | 256                          |              10  |   0.0001       |  0.01    |   0.999          | MSE     |
 
-## Models
-base 1 - `aws-networking-internal-deepRacer-cup-v1-0`: Use reward function to stay near centre line.
+## Model References
+base 1 - `aws-networking-internal-deepRacer-cup`
 
 
 ## Car Details

@@ -10,10 +10,27 @@ AWS Networking Organisation Internal DeepRacer Cup 2020
 | v1-3    |  Bennyhwa1     | inside_lane_fast    | 512                          |              10  |   0.0001       |  0.01    |   0.999          | MSE     |
 | v1-4    |  Bennyhwa1     | inside_lane_safety    | 512                          |              10  |   0.0001       |  0.01    |   0.999          | Huber     |
 | v1-5    |  Bennyhwa1     | fast_straight_line    | 512                          |              10  |   0.0008       |  0.01    |   0.999          | Huber     |
+| v1-5-1    |  Bennyhwa1     | inside_lane_faster    | 512                          |              10  |   0.0001       |  0.01    |   0.999          | MSE     |
 
 ## Submission record
-v-13: 15.8s with 3 off-track.   
-v1-4: 13.5s with 1 off-track.   
+v1-3: 15.8s with 3 off-track.   
+v1-4: 13.364s with 1 off-track. (1st submission was 13.5 with 1 off track, second one improved a little bit)  
+
+## Evaluation Result
+v1-3:    
+1	00:00:13.056	100%	Lap complete    
+2	00:00:12.508	100%	Lap complete    
+3	00:00:12.360	100%	Lap complete   
+
+v1-4:    
+1	00:00:12.474	100%	Lap complete    
+2	00:00:12.784	100%	Lap complete    
+3	00:00:13.225	100%	Lap complete    
+
+v1-5:  
+1	00:00:12.971	100%	Lap complete    
+2	00:00:13.434	100%	Lap complete    
+3	00:00:13.324	100%	Lap complete    
 
 ## Car Details
 ### The Original DeepRacer

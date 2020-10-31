@@ -19,7 +19,7 @@ AWS Networking Organisation Internal DeepRacer Cup 2020
 
 ## Submission record
 v1-3: 15.8s with 3 off-track.   
-v1-4: 13.364s with 1 off-track. (1st submission was 13.5 with 1 off track, second one improved a little bit)  
+v1-4: 12.402s with 0 off-track (2nd submission one was 13.364s with 1 off-track, (1st submission was 13.5 with 1 off track, for some reason it just didn't go off track and time improved)  
 
 ## Evaluation Result
 v1-3:    

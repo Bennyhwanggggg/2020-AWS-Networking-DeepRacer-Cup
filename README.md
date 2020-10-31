@@ -15,6 +15,7 @@ AWS Networking Organisation Internal DeepRacer Cup 2020
 | v2-1    |  Bennyhwa1     | deep_racer_evaluate    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
 | v1-6   |  Bennyhwa1     | deep_racer_evaluate    | 256                          |              10  |   0.0001       |  0.01    |   0.999          | Huber     |
 | v2-2    |  Bennyhwa1     | centre_line    | 512                          |              10  |   0.0003       |  0.01    |   0.999          | Huber     |
+| v1-5-2    |  Bennyhwa1     | smooth    | 512                          |              10  |   0.00002       |  0.01    |   0.999          | MSE     |
 
 ## Submission record
 v1-3: 15.8s with 3 off-track.   

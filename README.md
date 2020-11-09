@@ -1,4 +1,4 @@
-# AWS-Networking-DeepRacer-Cup-2020
+# 2020-AWS-Networking-DeepRacer-Cup
 AWS Networking Organisation Internal DeepRacer Cup 2020
 
 ## Training Logs
